@@ -1,4 +1,4 @@
-# Chat-GP-Bot
+# DISCORD-CHAT-BOT
 AI baced chat bot for discord servers
 
 Pre-requisites:
